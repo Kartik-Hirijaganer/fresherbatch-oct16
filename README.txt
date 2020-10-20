@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 This contains the info about the assignments.
-some minor changes
-new minor changes
+=======
+This contains the info about the assignments.
+>>>>>>> js-assignments
+
